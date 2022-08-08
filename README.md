@@ -1,12 +1,15 @@
 # MyGreeterClient demo
 
 Overview
+
 MyGreeterClient is build with Swift lauguage
 
 Test Functions
 1. test greeting message with mock up date of 'morning','afternoon','evening'
 2. test greeter client is not nil
 3. test internal logic with addtional test method 'testGreetingByNow' 
+4. test boundary condition with test method 'testByNoDate'
+
 
 How to run the code: 
 1. git clone or download 
